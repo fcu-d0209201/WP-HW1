@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<style>
+ body{background-color: powderblue;
+}
+ p{color:red;
+   background-color: pink;
+   border:1px solid red;
+   padding:20px; 
+}
+ a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+ a:visited {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+}
+ a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+ a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+</style>
+</head>
+
+
+<body>
+  <title>Face連結</title>
+  <h1>第一次作業</h1>
+  <hr>
+  <p>點取圖片連結到Facebook<br>下面這個就是我的臉書</p>
+  <hr>
+  <a href="https://www.facebook.com/profile.php?id=100002966536120"_blank"><img src="https://www.facebook.com/images/fb_icon_325x325.png" width="250" height="350"></a>
+  </body>
+</html>
